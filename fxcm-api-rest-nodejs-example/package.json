@@ -8,7 +8,7 @@
 	},
 	"devDependencies": {},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "node main.js"
 	},
 	"author": "pguz@fxcm.com",
 	"license": "ISC"

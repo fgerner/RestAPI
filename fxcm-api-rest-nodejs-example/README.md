@@ -7,7 +7,7 @@ Requrements:
 
 To run this example:
 
-1. Rename or copy config.sample.js into config.js
+1. Rename or copy config.js into config.js
 2. Change token, host, port and protocol in config.js
 3. Start the client with: node main.js
 4. Use commands from commands.txt
